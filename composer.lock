@@ -2730,7 +2730,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.3 || ^8",
+                "php": "^8.1.0",
                 "symfony/polyfill-php81": "^1.23"
             },
             "require-dev": {
@@ -2908,7 +2908,7 @@
             },
             "require": {
                 "egulias/email-validator": "^2.0|^3.1",
-                "php": ">=8.1.0",
+                "php": ">=8.1.0 ",
                 "symfony/polyfill-iconv": "^1.0",
                 "symfony/polyfill-intl-idn": "^1.10",
                 "symfony/polyfill-mbstring": "^1.0"
